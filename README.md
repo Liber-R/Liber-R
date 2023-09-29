@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liber-R
 - 👀 I’m interested in Digital Humanities and NLP
-- 🌱 I’m currently majoring in Modern Literature
+- 🌱 I’m currently attending Digital Humanities and Digital Knowledge to Università di Bologna
 - 💞️ I’m looking to collaborate on NLP projects
 - 📫 How to reach me: romolo.66@hotmail.it
 
