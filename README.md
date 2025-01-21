@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Liber-R
-- 👀 I’m interested in Digital Humanities and NLP
+- 👀 I’m interested in Digital Humanities
 - 🌱 I’m currently attending Digital Humanities and Digital Knowledge to Università di Bologna
-- 💞️ I’m looking to collaborate on NLP projects
+- 💞️ I’m looking to collaborate on Machine Learning projects for humanities studies
 - 📫 How to reach me: romolo.66@hotmail.it
 
 <!---
